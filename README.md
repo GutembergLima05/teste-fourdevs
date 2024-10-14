@@ -67,6 +67,6 @@ Você deverá criar uma API RESTful simples que simule o gerenciamento de uma pe
 - Implementação correta dos requisitos.
 - Metódos, variavéis e funções bem descritivas (nomes).
 
-## Vídeo aula sobre básico sobre NodeJS <a href="https://www.youtube.com/watch?v=IZRHj7givq4">link aqui</a>
+## Vídeo aula básico sobre NodeJS <a href="https://www.youtube.com/watch?v=IZRHj7givq4">link aqui</a>
   
 Boa sorte!
